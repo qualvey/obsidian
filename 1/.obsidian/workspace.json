@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "659c18c1f1b3ce60",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce3942bbdcb29d56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e71c80e40238766e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "After Effects/AE01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e326a933bea95023",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a97df5e76104929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97fe559cfa17ceb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d310eebcde388b01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a12685f5f8d58754",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6eee8bb55b067d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dc95da03b099b6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04176605fc56432f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "After Effects/AE01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7469a5635f023fde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "After Effects/AE01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe72dc4d41f3e984",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "699d71562af399d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "After Effects/AE01.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "e71c80e40238766e",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "assasin.md",
+    "photoshop.md",
+    "slider/PPt01.md",
+    "slider/key Word.md",
+    "PowerShell/Powershell.md",
+    "After Effects/AE01.md",
+    "搜索引擎过滤.md",
+    "Vim/vim01.md",
+    "Vim",
+    "未命名 2.md",
+    "PowerShell",
+    "未命名 1.md",
+    "Git.md",
+    "py.md",
+    "Stable Diffusion Webui 安装.md",
+    "未命名.md",
+    "资源.md",
+    "未命名 3.md",
+    "After Effects",
+    "OPT",
+    "slider",
+    "css.md",
+    "anyway.md",
+    "linux.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "2023-11-11.md"
+  ]
+}
