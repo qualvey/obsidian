@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "After Effects/AE01.md",
+                "file": "assasin.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6eee8bb55b067d8d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "After Effects/AE01.md",
+                "file": "assasin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "After Effects/AE01.md",
+                "file": "assasin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "After Effects/AE01.md"
+                "file": "assasin.md"
               }
             }
+          },
+          {
+            "id": "d11d4be0e510dc19",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,17 +155,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e71c80e40238766e",
+  "active": "d11d4be0e510dc19",
   "lastOpenFiles": [
+    "Vim/vim01.md",
+    "After Effects/AE01.md",
     "未命名.canvas",
     "assasin.md",
     "photoshop.md",
     "slider/PPt01.md",
     "slider/key Word.md",
     "PowerShell/Powershell.md",
-    "After Effects/AE01.md",
     "搜索引擎过滤.md",
-    "Vim/vim01.md",
     "Vim",
     "未命名 2.md",
     "PowerShell",
