@@ -11,12 +11,8 @@
             "id": "e71c80e40238766e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "assasin.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assasin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assasin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +149,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d11d4be0e510dc19",
+  "active": "97fe559cfa17ceb5",
   "lastOpenFiles": [
     "Vim/vim01.md",
     "After Effects/AE01.md",
