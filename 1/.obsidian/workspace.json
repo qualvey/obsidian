@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +156,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e71c80e40238766e",
+  "active": "d11d4be0e510dc19",
   "lastOpenFiles": [
     "资源.md",
     "After Effects/AE01.md",
