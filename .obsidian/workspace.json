@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "9fbb3116681c8293",
+    "type": "split",
+    "children": [
+      {
+        "id": "167d1fed18685308",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3706880def062e03",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0c1ec3e649b62b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1/Vim/vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0189fae67e0c3f9e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c1b72cf7098a885",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c34cb2f938bc2e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b820ee0099446072",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab36d7b294ede8f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42187e76f4115da8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d55e7b596284864",
+    "type": "split",
+    "children": [
+      {
+        "id": "4282d9e7332c98b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e82c1bded29640e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1/Vim/vim.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5d2639a3e53c297",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1/Vim/vim.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f35ff9cf4c4720b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fba7c55b10e730ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1/Vim/vim.md"
+              }
+            }
+          },
+          {
+            "id": "da655fc2ed322ea6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0189fae67e0c3f9e",
+  "lastOpenFiles": [
+    "1/Vim/vim.md",
+    "1.md",
+    "b.a",
+    "1/slider/key Word.md",
+    "1/slider/PPt01.md",
+    "1/Vim/vim01.md",
+    "1/PowerShell/Powershell.md",
+    "1/After Effects/AE01.md",
+    "1/资源.md",
+    "1/搜索引擎过滤.md",
+    "1/slider",
+    "1/py.md",
+    "1/photoshop.md",
+    "1/Vim",
+    "1/Stable Diffusion Webui 安装.md",
+    "1/PowerShell",
+    "1/Git.md",
+    "1/After Effects",
+    "1"
+  ]
+}
