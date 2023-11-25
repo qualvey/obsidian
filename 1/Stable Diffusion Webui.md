@@ -7,4 +7,4 @@ webui-user.bat
 ```
 
 
-[[py|更改pip源的方法]]
+[[python|更改pip源的方法]]
