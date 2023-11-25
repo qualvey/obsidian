@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "After Effects/ae02.md",
+                "file": "资源.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "After Effects/ae02.md",
+                "file": "资源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "After Effects/ae02.md",
+                "file": "资源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "After Effects/ae02.md"
+                "file": "资源.md"
               }
             }
           },
@@ -157,13 +157,13 @@
   },
   "active": "e71c80e40238766e",
   "lastOpenFiles": [
-    "Git.md",
+    "After Effects/AE01.md",
     "After Effects/ae02.md",
+    "Git.md",
     "搜索引擎过滤.md",
     "Stable Diffusion Webui 安装.md",
     "photoshop.md",
     "py.md",
-    "After Effects/AE01.md",
     "PowerShell/Powershell.md",
     "slider/key Word.md",
     "slider/PPt01.md",
