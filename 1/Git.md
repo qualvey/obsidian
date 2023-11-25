@@ -8,3 +8,4 @@ git config --global http.sslVerify false
 
 git commit需要理解
 branch
+test
