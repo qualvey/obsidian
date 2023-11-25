@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "py.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "py.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,20 +155,20 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d11d4be0e510dc19",
+  "active": "e71c80e40238766e",
   "lastOpenFiles": [
-    "资源.md",
-    "After Effects/AE01.md",
-    "After Effects/ae02.md",
-    "Git.md",
-    "搜索引擎过滤.md",
-    "Stable Diffusion Webui 安装.md",
     "photoshop.md",
-    "py.md",
+    "Git.md",
+    "After Effects/AE01.md",
     "PowerShell/Powershell.md",
     "slider/key Word.md",
     "slider/PPt01.md",
     "Vim/vim01.md",
+    "py.md",
+    "Stable Diffusion Webui.md",
+    "搜索引擎过滤.md",
+    "资源.md",
+    "After Effects/ae02.md",
     "未命名 1.md",
     "未命名.md",
     "assasin.md",

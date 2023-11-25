@@ -8,5 +8,3 @@
 		两次esc
 done
 
-获取权限写入：
-	:w !sudo tee %
