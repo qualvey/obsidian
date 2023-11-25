@@ -1,7 +1,6 @@
-<font color=red size=7>                   <center> python版本必须是3.10.6</center></font>
-git clone 源代码
-
-训练模型
+<font color=red size=7><b><center> python版本必须是3.10.6</center></b></font>
+git clone 
+checkpoint
 
 ```text
 webui-user.bat

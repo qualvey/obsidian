@@ -11,8 +11,12 @@
             "id": "e71c80e40238766e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "After Effects/ae02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "After Effects/ae02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "After Effects/ae02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assasin.md"
+                "file": "After Effects/ae02.md"
               }
             }
           },
@@ -149,25 +155,26 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "97fe559cfa17ceb5",
+  "active": "e71c80e40238766e",
   "lastOpenFiles": [
-    "Vim/vim01.md",
-    "After Effects/AE01.md",
-    "未命名.canvas",
-    "assasin.md",
-    "photoshop.md",
-    "slider/PPt01.md",
-    "slider/key Word.md",
-    "PowerShell/Powershell.md",
+    "Git.md",
+    "After Effects/ae02.md",
     "搜索引擎过滤.md",
+    "Stable Diffusion Webui 安装.md",
+    "photoshop.md",
+    "py.md",
+    "After Effects/AE01.md",
+    "PowerShell/Powershell.md",
+    "slider/key Word.md",
+    "slider/PPt01.md",
+    "Vim/vim01.md",
+    "未命名 1.md",
+    "未命名.md",
+    "assasin.md",
+    "未命名.canvas",
     "Vim",
     "未命名 2.md",
     "PowerShell",
-    "未命名 1.md",
-    "Git.md",
-    "py.md",
-    "Stable Diffusion Webui 安装.md",
-    "未命名.md",
     "资源.md",
     "未命名 3.md",
     "After Effects",
