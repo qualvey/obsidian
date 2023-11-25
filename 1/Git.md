@@ -5,10 +5,16 @@ git config --global https.proxy socks5://127.0.0.1:7890
 git config --global http.sslVerify false 
 ```
 
+git add .
+git commit -m "comment"
+git pull
 
-git commit需要理解
 branch
 test
+
+# sshkey
+
+
 
 git init                                                  # 初始化本地git仓库（创建新仓库）
 git config --global user.name "xxx"                       # 配置用户名
@@ -96,3 +102,4 @@ git grep "delete from"                                    # 文件中搜索文�
 git grep -e '#define' --and -e SORT_DIRENT
 git gc
 git fsck
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "py.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "py.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "py.md"
+                "file": "Git.md"
               }
             }
           },
@@ -157,14 +157,14 @@
   },
   "active": "e71c80e40238766e",
   "lastOpenFiles": [
-    "photoshop.md",
+    "py.md",
     "Git.md",
+    "photoshop.md",
     "After Effects/AE01.md",
     "PowerShell/Powershell.md",
     "slider/key Word.md",
     "slider/PPt01.md",
     "Vim/vim01.md",
-    "py.md",
     "Stable Diffusion Webui.md",
     "搜索引擎过滤.md",
     "资源.md",
