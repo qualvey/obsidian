@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6eee8bb55b067d8d",
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +157,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e71c80e40238766e",
+  "active": "97fe559cfa17ceb5",
   "lastOpenFiles": [
     "After Effects/AE01.md",
     "After Effects/ae02.md",
