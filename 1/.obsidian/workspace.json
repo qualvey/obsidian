@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "资源.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6eee8bb55b067d8d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "资源.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "资源.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "资源.md"
+                "file": "Git.md"
               }
             }
           },
@@ -143,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +155,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "97fe559cfa17ceb5",
+  "active": "e71c80e40238766e",
   "lastOpenFiles": [
+    "资源.md",
     "After Effects/AE01.md",
     "After Effects/ae02.md",
     "Git.md",
@@ -177,7 +176,6 @@
     "Vim",
     "未命名 2.md",
     "PowerShell",
-    "资源.md",
     "未命名 3.md",
     "After Effects",
     "OPT",
