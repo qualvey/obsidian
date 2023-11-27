@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1/Vim/vim01.md",
+                "file": "1/PowerShell/Powershell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a6a0bf4eea1ff81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1/bash/bash01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1/Vim/vim01.md",
+                "file": "1/bash/bash01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1/Vim/vim01.md",
+                "file": "1/bash/bash01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1/Vim/vim01.md"
+                "file": "1/bash/bash01.md"
               }
             }
           },
@@ -163,16 +175,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "da655fc2ed322ea6",
+  "active": "b820ee0099446072",
   "lastOpenFiles": [
-    "1/Personal",
-    "1/Vim/vim.md",
-    "1/Vim/vim01.md",
-    "1.md",
-    "b.a",
+    "1/PowerShell/Powershell.md",
+    "1/bash/bash01.md",
+    "1/bash",
     "1/slider/key Word.md",
     "1/slider/PPt01.md",
-    "1/PowerShell/Powershell.md",
+    "1/Vim/vim01.md",
+    "1/Personal",
+    "1/Vim/vim.md",
+    "1.md",
+    "b.a",
     "1/After Effects/AE01.md",
     "1/资源.md",
     "1/搜索引擎过滤.md",
