@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1/bash/bash01.md",
+                "file": "1/Vim/vim01.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1/bash/bash01.md",
+                "file": "1/Vim/vim01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1/bash/bash01.md",
+                "file": "1/Vim/vim01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1/bash/bash01.md"
+                "file": "1/Vim/vim01.md"
               }
             }
           },
@@ -175,10 +175,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b820ee0099446072",
+  "active": "3a6a0bf4eea1ff81",
   "lastOpenFiles": [
-    "1/PowerShell/Powershell.md",
     "1/bash/bash01.md",
+    "1/last.list",
+    "1/PowerShell/Powershell.md",
     "1/bash",
     "1/slider/key Word.md",
     "1/slider/PPt01.md",
