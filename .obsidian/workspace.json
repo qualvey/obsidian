@@ -8,38 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3706880def062e03",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0189fae67e0c3f9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1/PowerShell/Powershell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a6a0bf4eea1ff81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1/Stable Diffusion Webui.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "89ab58d03c4c6c3a",
             "type": "leaf",
             "state": {
@@ -51,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,6 +156,7 @@
   },
   "active": "89ab58d03c4c6c3a",
   "lastOpenFiles": [
+    "1/PowerShell/Powershell.md",
     "1/Stable Diffusion Webui.md",
     "用户旅程图.md",
     "服务营销",
@@ -201,7 +169,6 @@
     "1/Vim/vim01.md",
     "1/slider/PPt01.md",
     "1/slider/key Word.md",
-    "1/PowerShell/Powershell.md",
     "1/bash/bash01.md",
     "1/After Effects/AE01.md",
     "1/Vim/regular-express.txt",
