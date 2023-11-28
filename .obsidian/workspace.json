@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89ab58d03c4c6c3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "用户旅程图.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1/Stable Diffusion Webui.md",
+                "file": "用户旅程图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1/Stable Diffusion Webui.md",
+                "file": "用户旅程图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1/Stable Diffusion Webui.md"
+                "file": "用户旅程图.md"
               }
             }
           },
@@ -175,8 +187,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3a6a0bf4eea1ff81",
+  "active": "89ab58d03c4c6c3a",
   "lastOpenFiles": [
+    "1/Stable Diffusion Webui.md",
+    "用户旅程图.md",
+    "服务营销",
+    "1/Vim/未命名",
     "1/python.md",
     "1/photoshop.md",
     "1/Git.md",
@@ -200,8 +216,6 @@
     "1/py.md",
     "1/Vim",
     "1/Stable Diffusion Webui 安装.md",
-    "1/PowerShell",
-    "1/After Effects",
-    "1"
+    "1/PowerShell"
   ]
 }
