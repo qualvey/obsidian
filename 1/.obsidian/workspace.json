@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "slider/key Word.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e990c4358168eb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "商务谈判.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "商务谈判.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "商务谈判.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "商务谈判.md"
               }
             }
           },
@@ -155,22 +168,26 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e71c80e40238766e",
+  "active": "e990c4358168eb40",
   "lastOpenFiles": [
+    "slider/key Word.md",
+    "商务谈判.md",
+    "slider/PPt01.md",
+    "Git.md",
+    "last.list",
+    "bash/bash01.md",
+    "bash",
+    "Vim/regular-express.txt",
     "photoshop.md",
     "python.md",
     "资源.md",
     "搜索引擎语法.md",
-    "Git.md",
     "After Effects/AE01.md",
     "PowerShell/Powershell.md",
-    "slider/key Word.md",
-    "slider/PPt01.md",
     "Vim/vim01.md",
     "Stable Diffusion Webui.md",
     "After Effects/ae02.md",
     "未命名 1.md",
-    "未命名.md",
     "assasin.md",
     "未命名.canvas",
     "Vim",
