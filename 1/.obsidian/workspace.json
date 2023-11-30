@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e71c80e40238766e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "slider/key Word.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e990c4358168eb40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "商务谈判.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b03cd2e7f664d6d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "概念.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a564fdeb0cdc70dc",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200.5,
+    "collapsed": true
   },
   "right": {
     "id": "6eee8bb55b067d8d",
