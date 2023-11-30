@@ -9,4 +9,4 @@ pip config set global.index-url http://mirrors.cloud.tencent.com/pypi/simple
 pip config set global.index-url http://pypi.douban.com/simple/# 
 ### 换回默认源
 pip config unset global.index-url
-
+test
