@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a564fdeb0cdc70dc",
+            "id": "1f5fdc27dab915fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "服务设计.md",
+                "file": "服务营销设计/用户故事阶段.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f5fdc27dab915fe",
+            "id": "8d7eb44e8cec5e69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bash/bash01.md",
+                "file": "服务营销设计/用户故事.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bash/bash01.md",
+                "file": "服务营销设计/用户故事阶段.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bash/bash01.md",
+                "file": "服务营销设计/用户故事阶段.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bash/bash01.md"
+                "file": "服务营销设计/用户故事阶段.md"
               }
             }
           },
@@ -170,25 +169,28 @@
   },
   "active": "1f5fdc27dab915fe",
   "lastOpenFiles": [
+    "服务营销设计/用户故事.md",
+    "服务营销设计/用户故事阶段.md",
+    "服务营销设计/营销概念术语.md",
+    "服务营销设计/服务设计.md",
+    "Git.md",
+    "python.md",
+    "Stable Diffusion Webui.md",
+    "商务谈判.md",
+    "Design/photoshop.md",
+    "bash/bash01.md",
+    "服务营销设计",
     "PowerShell/Powershell.md",
     "slider/PPt01.md",
     "slider/key Word.md",
     "Vim/vim01.md",
-    "Git.md",
-    "photoshop.md",
-    "营销概念术语.md",
     "计算机概念.md",
-    "服务设计.md",
     "搜索引擎语法.md",
-    "商务谈判.md",
-    "Stable Diffusion Webui.md",
-    "python.md",
     "资源.md",
     "last.list",
-    "bash/bash01.md",
     "bash",
     "Vim/regular-express.txt",
-    "After Effects/AE01.md",
+    "Design/AE01.md",
     "After Effects/ae02.md",
     "未命名 1.md",
     "assasin.md",
@@ -197,14 +199,12 @@
     "未命名 2.md",
     "PowerShell",
     "未命名 3.md",
-    "After Effects",
+    "Design",
     "OPT",
     "slider",
     "css.md",
     "anyway.md",
     "linux.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "Untitled.canvas"
   ]
 }
