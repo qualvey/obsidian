@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "服务设计.md",
+                "file": "bash/bash01.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "服务设计.md",
+                "file": "bash/bash01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "服务设计.md",
+                "file": "bash/bash01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "服务设计.md"
+                "file": "bash/bash01.md"
               }
             }
           },
@@ -168,27 +168,27 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "97fe559cfa17ceb5",
+  "active": "1f5fdc27dab915fe",
   "lastOpenFiles": [
+    "PowerShell/Powershell.md",
+    "slider/PPt01.md",
+    "slider/key Word.md",
+    "Vim/vim01.md",
+    "Git.md",
+    "photoshop.md",
     "营销概念术语.md",
+    "计算机概念.md",
     "服务设计.md",
     "搜索引擎语法.md",
     "商务谈判.md",
     "Stable Diffusion Webui.md",
     "python.md",
-    "photoshop.md",
-    "Git.md",
-    "计算机概念.md",
     "资源.md",
-    "slider/key Word.md",
-    "slider/PPt01.md",
     "last.list",
     "bash/bash01.md",
     "bash",
     "Vim/regular-express.txt",
     "After Effects/AE01.md",
-    "PowerShell/Powershell.md",
-    "Vim/vim01.md",
     "After Effects/ae02.md",
     "未命名 1.md",
     "assasin.md",
