@@ -1,17 +1,26 @@
-# 代理配置  
+#### 代理配置  
 ```  
 git config --global http.proxy socks5://127.0.0.1:7890  
 git config --global https.proxy socks5://127.0.0.1:7890  
 git config --global http.sslVerify false   
 ```  
-  
-git add .    
-git commit -m "comment"    
+#### 同步三件套
+```
+git add .
+git commit -m "comment" 
 git pull    
   
 branch    
 test    
-  
+```
+#### 查看远程地址
+```
+git remote -v
+```
+#### 更改远程地址
+```
+git remote set-url origin ${URL}
+```
 # sshkey   
   
   
