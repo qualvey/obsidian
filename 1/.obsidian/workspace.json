@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5,
-    "collapsed": true
+    "width": 200.5
   },
   "right": {
     "id": "6eee8bb55b067d8d",
@@ -158,8 +157,10 @@
   },
   "active": "a564fdeb0cdc70dc",
   "lastOpenFiles": [
-    "概念.md",
+    "搜索引擎语法.md",
     "服务营销.md",
+    "概念.md",
+    "资源.md",
     "商务谈判.md",
     "slider/key Word.md",
     "slider/PPt01.md",
@@ -170,8 +171,6 @@
     "Vim/regular-express.txt",
     "photoshop.md",
     "python.md",
-    "资源.md",
-    "搜索引擎语法.md",
     "After Effects/AE01.md",
     "PowerShell/Powershell.md",
     "Vim/vim01.md",
