@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "服务营销设计/用户故事阶段.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "服务营销设计/用户故事阶段.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "服务营销设计/用户故事阶段.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "服务营销设计/用户故事阶段.md"
+                "file": "Git.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "9a9cde8d1ea51863",
   "lastOpenFiles": [
-    "服务营销设计/用户故事1.1.md",
     "服务营销设计/用户故事阶段.md",
+    "服务营销设计/用户故事1.1.md",
     "服务营销设计/用户故事.md",
     "服务营销设计/营销概念术语.md",
     "服务营销设计/服务设计.md",
