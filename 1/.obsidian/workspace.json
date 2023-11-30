@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "服务营销设计/用户故事阶段.md",
+                "file": "服务营销设计/用户故事.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a9cde8d1ea51863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vim/vim01.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "服务营销设计/用户故事阶段.md",
+                "file": "Vim/vim01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "服务营销设计/用户故事阶段.md",
+                "file": "Vim/vim01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "服务营销设计/用户故事阶段.md"
+                "file": "Vim/vim01.md"
               }
             }
           },
@@ -167,26 +180,27 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1f5fdc27dab915fe",
+  "active": "9a9cde8d1ea51863",
   "lastOpenFiles": [
-    "服务营销设计/用户故事.md",
-    "服务营销设计/用户故事阶段.md",
-    "服务营销设计/营销概念术语.md",
-    "服务营销设计/服务设计.md",
-    "Git.md",
+    "slider/key Word.md",
+    "slider/PPt01.md",
     "python.md",
+    "Git.md",
     "Stable Diffusion Webui.md",
     "商务谈判.md",
+    "搜索引擎语法.md",
+    "计算机概念.md",
+    "资源.md",
+    "服务营销设计/用户故事1.1.md",
+    "服务营销设计/用户故事.md",
+    "服务营销设计/用户故事阶段.md",
+    "服务营销设计/服务设计.md",
+    "服务营销设计/营销概念术语.md",
     "Design/photoshop.md",
     "bash/bash01.md",
     "服务营销设计",
     "PowerShell/Powershell.md",
-    "slider/PPt01.md",
-    "slider/key Word.md",
     "Vim/vim01.md",
-    "计算机概念.md",
-    "搜索引擎语法.md",
-    "资源.md",
     "last.list",
     "bash",
     "Vim/regular-express.txt",
@@ -204,7 +218,6 @@
     "slider",
     "css.md",
     "anyway.md",
-    "linux.md",
     "Untitled.canvas"
   ]
 }
