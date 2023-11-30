@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "python.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "python.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "9a9cde8d1ea51863",
   "lastOpenFiles": [
+    "Git.md",
     "服务营销设计/用户故事阶段.md",
     "服务营销设计/用户故事1.1.md",
     "服务营销设计/用户故事.md",
@@ -178,7 +179,6 @@
     "slider/key Word.md",
     "slider/PPt01.md",
     "python.md",
-    "Git.md",
     "Stable Diffusion Webui.md",
     "商务谈判.md",
     "搜索引擎语法.md",
