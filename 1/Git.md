@@ -9,10 +9,13 @@ git config --global http.sslVerify false
 git add .
 git commit -m "comment" 
 git pull    
-  
+```
+
+
 branch    
 test    
-```
+
+
 #### 查看远程地址
 ```
 git remote -v
