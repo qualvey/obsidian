@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1/资源.md",
+                "file": "1/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1/资源.md",
+            "file": "1/Git.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1/资源.md",
+            "file": "1/Git.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1/资源.md"
+            "file": "1/Git.md"
           }
         }
       },
@@ -142,6 +142,35 @@
   "active": "b01ed1f28425db65",
   "lastOpenFiles": [
     "1/Git.md",
-    "1/After Effects/AE01.md"
+    "用户旅程图.md",
+    "1/服务营销设计/服务设计.md",
+    "1/Design/AE01.md",
+    "1/Design/photoshop.md",
+    "1/服务营销设计/营销概念术语.md",
+    "1/服务营销设计/用户故事阶段.md",
+    "1/服务营销设计/用户故事1.1.md",
+    "1/服务营销设计/用户故事.md",
+    "/1/服务营销设计/服务设计.md",
+    "/1/Design/AE01.md",
+    "/1/Design/photoshop.md",
+    "/b.a",
+    "/1/服务营销设计/营销概念术语.md",
+    "/1/服务营销设计/用户故事阶段.md",
+    "/1/服务营销设计/用户故事1.1.md",
+    "/1/服务营销设计/用户故事.md",
+    "/1/bash/bash01.md",
+    "1/服务营销设计",
+    "1/Design",
+    "/1/服务营销设计",
+    "/1/Design",
+    "1/计算机概念.md",
+    "1/服务营销.md",
+    "/1/计算机概念.md",
+    "1/营销概念术语.md",
+    "/1/营销概念术语.md",
+    "/1/服务营销.md",
+    "1/Vim/vim01.md",
+    "1/商务谈判.md",
+    "1/概念.md"
   ]
 }
