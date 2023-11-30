@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a564fdeb0cdc70dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "服务营销.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "概念.md",
+                "file": "服务营销.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "概念.md",
+                "file": "服务营销.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "概念.md"
+                "file": "服务营销.md"
               }
             }
           },
@@ -180,10 +192,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b03cd2e7f664d6d0",
+  "active": "a564fdeb0cdc70dc",
   "lastOpenFiles": [
-    "商务谈判.md",
     "概念.md",
+    "服务营销.md",
+    "商务谈判.md",
     "slider/key Word.md",
     "slider/PPt01.md",
     "Git.md",
@@ -216,7 +229,6 @@
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Untitled.canvas",
-    "2023-11-11.md"
+    "Untitled.canvas"
   ]
 }
