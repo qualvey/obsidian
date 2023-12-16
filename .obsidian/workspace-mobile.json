@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "1/计算机概念.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "1/计算机概念.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "1/计算机概念.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "1/计算机概念.md"
           }
         }
       },
@@ -164,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1be643dd1721fa56",
+  "active": "4e10e4eee0598ac7",
   "lastOpenFiles": [
+    "Untitled.md",
     "1/epic.md",
     "1/python.md",
     "/1/服务营销设计/用户旅程图.md",
@@ -182,7 +183,6 @@
     "/1/Vim/未命名.md",
     "/1/Vim/vim01.md",
     "/1/KODI.md",
-    "Untitled.md",
     "1/Git.md",
     "/1/python.md",
     "/1/Git.md",
