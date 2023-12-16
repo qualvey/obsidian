@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PowerShell/Powershell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abdb16cbbd20ae4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf631f8a903f98f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0bf673f2e11c765",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "epic.md",
+                "file": "bash/bash01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "epic.md",
+                "file": "bash/bash01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "epic.md",
+                "file": "bash/bash01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "epic.md"
+                "file": "bash/bash01.md"
               }
             }
           },
@@ -192,37 +155,37 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a0bf673f2e11c765",
+  "active": "97fe559cfa17ceb5",
   "lastOpenFiles": [
-    "未命名.md",
-    "epic.md",
-    "未命名 1.md",
+    "Design/AE01.md",
+    "Design/photoshop.md",
     "PowerShell/Powershell.md",
-    "服务营销设计/用户旅程图.md",
-    "Vim/未命名.md",
-    "服务营销设计/用户故事阶段.md",
-    "Vim/vim01.md",
-    "KODI.md",
-    "Git.md",
-    "python.md",
-    "服务营销设计/用户故事1.1.md",
-    "服务营销设计/用户故事.md",
-    "服务营销设计/营销概念术语.md",
-    "服务营销设计/服务设计.md",
+    "Vim/001.md",
     "slider/key Word.md",
     "slider/PPt01.md",
+    "Vim/vim01.md",
+    "epic.md",
+    "Git.md",
+    "KODI.md",
+    "python.md",
     "Stable Diffusion Webui.md",
     "商务谈判.md",
     "搜索引擎语法.md",
     "计算机概念.md",
     "资源.md",
-    "Design/photoshop.md",
+    "未命名 1.md",
+    "未命名.md",
+    "服务营销设计/用户旅程图.md",
+    "服务营销设计/用户故事阶段.md",
+    "服务营销设计/用户故事1.1.md",
+    "服务营销设计/用户故事.md",
+    "服务营销设计/营销概念术语.md",
+    "服务营销设计/服务设计.md",
     "bash/bash01.md",
     "服务营销设计",
     "last.list",
     "bash",
     "Vim/regular-express.txt",
-    "Design/AE01.md",
     "After Effects/ae02.md",
     "未命名.canvas",
     "Vim",
