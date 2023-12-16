@@ -11,11 +11,52 @@
             "id": "1aafa7037b29ac61",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PowerShell/Powershell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abdb16cbbd20ae4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf631f8a903f98f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0bf673f2e11c765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "epic.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "epic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "epic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "epic.md"
+              }
             }
           },
           {
@@ -147,8 +192,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1aafa7037b29ac61",
+  "active": "a0bf673f2e11c765",
   "lastOpenFiles": [
+    "未命名.md",
+    "epic.md",
+    "未命名 1.md",
+    "PowerShell/Powershell.md",
+    "服务营销设计/用户旅程图.md",
     "Vim/未命名.md",
     "服务营销设计/用户故事阶段.md",
     "Vim/vim01.md",
@@ -169,19 +219,14 @@
     "Design/photoshop.md",
     "bash/bash01.md",
     "服务营销设计",
-    "PowerShell/Powershell.md",
     "last.list",
     "bash",
     "Vim/regular-express.txt",
     "Design/AE01.md",
     "After Effects/ae02.md",
-    "未命名 1.md",
-    "assasin.md",
     "未命名.canvas",
     "Vim",
-    "未命名 2.md",
     "PowerShell",
-    "未命名 3.md",
     "Design",
     "OPT",
     "slider",
