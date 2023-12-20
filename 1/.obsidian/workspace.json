@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bash/bash01.md",
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeac00c62f8dbfbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bash/bash01.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bash/bash01.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bash/bash01.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -155,33 +168,33 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "97fe559cfa17ceb5",
+  "active": "eeac00c62f8dbfbf",
   "lastOpenFiles": [
-    "Design/AE01.md",
-    "Design/photoshop.md",
-    "PowerShell/Powershell.md",
-    "Vim/001.md",
-    "slider/key Word.md",
-    "slider/PPt01.md",
-    "Vim/vim01.md",
-    "epic.md",
     "Git.md",
-    "KODI.md",
+    "未命名.md",
     "python.md",
     "Stable Diffusion Webui.md",
-    "商务谈判.md",
     "搜索引擎语法.md",
     "计算机概念.md",
     "资源.md",
+    "Vim/vim01.md",
+    "Vim/001.md",
+    "bash/bash01.md",
+    "Design/AE01.md",
+    "Design/photoshop.md",
+    "PowerShell/Powershell.md",
+    "slider/key Word.md",
+    "slider/PPt01.md",
+    "epic.md",
+    "KODI.md",
+    "商务谈判.md",
     "未命名 1.md",
-    "未命名.md",
     "服务营销设计/用户旅程图.md",
     "服务营销设计/用户故事阶段.md",
     "服务营销设计/用户故事1.1.md",
     "服务营销设计/用户故事.md",
     "服务营销设计/营销概念术语.md",
     "服务营销设计/服务设计.md",
-    "bash/bash01.md",
     "服务营销设计",
     "last.list",
     "bash",
