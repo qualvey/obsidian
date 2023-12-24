@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ulearn token.md",
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "985839781a63e865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数字营销.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ulearn token.md",
+                "file": "数字营销.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ulearn token.md",
+                "file": "数字营销.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ulearn token.md"
+                "file": "数字营销.md"
               }
             }
           },
@@ -155,16 +168,18 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "11b28cb39b99bf9a",
+  "active": "985839781a63e865",
   "lastOpenFiles": [
-    "Git.md",
-    "ulearn token.md",
     "未命名.md",
-    "python.md",
+    "数字营销.md",
     "Stable Diffusion Webui.md",
+    "商务谈判.md",
     "搜索引擎语法.md",
     "计算机概念.md",
     "资源.md",
+    "ulearn token.md",
+    "Git.md",
+    "python.md",
     "Vim/vim01.md",
     "Vim/001.md",
     "bash/bash01.md",
@@ -175,7 +190,6 @@
     "slider/PPt01.md",
     "epic.md",
     "KODI.md",
-    "商务谈判.md",
     "服务营销设计/用户旅程图.md",
     "服务营销设计/用户故事阶段.md",
     "服务营销设计/用户故事1.1.md",
@@ -186,7 +200,6 @@
     "last.list",
     "bash",
     "Vim/regular-express.txt",
-    "After Effects/ae02.md",
     "未命名.canvas",
     "Vim",
     "PowerShell",
