@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "搜索引擎语法.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "985839781a63e865",
+            "id": "8efcc091c76f05d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数字营销.md",
+                "file": "待解决抽象问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数字营销.md",
+                "file": "待解决抽象问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数字营销.md",
+                "file": "待解决抽象问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数字营销.md"
+                "file": "待解决抽象问题.md"
               }
             }
           },
@@ -168,18 +168,20 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "985839781a63e865",
+  "active": "8efcc091c76f05d0",
   "lastOpenFiles": [
-    "未命名.md",
-    "数字营销.md",
-    "Stable Diffusion Webui.md",
-    "商务谈判.md",
+    "计算机网络.md",
     "搜索引擎语法.md",
-    "计算机概念.md",
-    "资源.md",
     "ulearn token.md",
+    "待解决抽象问题.md",
+    "商务谈判.md",
+    "资源.md",
+    "KODI.md",
+    "epic.md",
     "Git.md",
     "python.md",
+    "Stable Diffusion Webui.md",
+    "数字营销.md",
     "Vim/vim01.md",
     "Vim/001.md",
     "bash/bash01.md",
@@ -188,8 +190,6 @@
     "PowerShell/Powershell.md",
     "slider/key Word.md",
     "slider/PPt01.md",
-    "epic.md",
-    "KODI.md",
     "服务营销设计/用户旅程图.md",
     "服务营销设计/用户故事阶段.md",
     "服务营销设计/用户故事1.1.md",
