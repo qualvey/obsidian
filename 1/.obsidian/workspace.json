@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11b28cb39b99bf9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "搜索引擎语法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8efcc091c76f05d0",
             "type": "leaf",
             "state": {
@@ -30,9 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0979677f2569b854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48b72ccbbaadee0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/music.163.com.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待解决抽象问题.md",
+                "file": "python/music.163.com.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "待解决抽象问题.md",
+                "file": "python/music.163.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "待解决抽象问题.md"
+                "file": "python/music.163.com.md"
               }
             }
           },
@@ -168,19 +180,25 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8efcc091c76f05d0",
+  "active": "48b72ccbbaadee0a",
   "lastOpenFiles": [
-    "计算机网络.md",
-    "搜索引擎语法.md",
-    "ulearn token.md",
-    "待解决抽象问题.md",
-    "商务谈判.md",
-    "资源.md",
-    "KODI.md",
-    "epic.md",
-    "Git.md",
+    "python/未命名 1.md",
+    "python/music.163.com.md",
+    "未命名 1.md",
     "python.md",
+    "python",
     "Stable Diffusion Webui.md",
+    "KODI.md",
+    "Git.md",
+    "epic.md",
+    "计算机网络.md",
+    "资源.md",
+    "搜索引擎语法.md",
+    "待解决抽象问题.md",
+    "rime/已知配置文件有两种不同的写法.md",
+    "rime",
+    "ulearn token.md",
+    "商务谈判.md",
     "数字营销.md",
     "Vim/vim01.md",
     "Vim/001.md",
@@ -192,10 +210,6 @@
     "slider/PPt01.md",
     "服务营销设计/用户旅程图.md",
     "服务营销设计/用户故事阶段.md",
-    "服务营销设计/用户故事1.1.md",
-    "服务营销设计/用户故事.md",
-    "服务营销设计/营销概念术语.md",
-    "服务营销设计/服务设计.md",
     "服务营销设计",
     "last.list",
     "bash",
@@ -205,7 +219,6 @@
     "PowerShell",
     "Design",
     "OPT",
-    "slider",
     "Untitled.canvas"
   ]
 }
