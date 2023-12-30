@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/music.163.com.md",
+                "file": "Vim/001.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/music.163.com.md",
+                "file": "Vim/001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/music.163.com.md",
+                "file": "Vim/001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/music.163.com.md"
+                "file": "Vim/001.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "48b72ccbbaadee0a",
   "lastOpenFiles": [
-    "python/未命名 1.md",
     "python/music.163.com.md",
+    "python/未命名 1.md",
     "未命名 1.md",
     "python.md",
     "python",
