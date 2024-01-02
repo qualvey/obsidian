@@ -7,13 +7,13 @@ git config --global http.sslVerify false
 #### 同步三件套
 ```
 git add .
-git commit -m "comment" 
-git pull    
+git commit -m "comment"  添加备注描述
+
 ```
 
 
 branch    
-test    
+
 
 
 #### 查看远程地址

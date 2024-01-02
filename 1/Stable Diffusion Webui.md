@@ -1,10 +1,7 @@
-<font color=red size=7><b><center> python版本必须是3.10.6</center></b></font>  
-git clone   
-checkpoint   
+正确的python版本
+源代码 
+下载模型，放到正确的位置
+执行启动脚本
 
-```text
-webui-user.bat
-```
-
-
+可能需要
 [[python|更改pip源的方法]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待解决抽象问题.md",
+                "file": "想法和问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim/001.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim/001.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim/001.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim/001.md"
+                "file": "Git.md"
               }
             }
           },
@@ -182,34 +182,34 @@
   },
   "active": "48b72ccbbaadee0a",
   "lastOpenFiles": [
-    "python/music.163.com.md",
+    "epic.md",
+    "服务营销设计/服务设计.md",
+    "powerpoint/PPt01.md",
+    "powerpoint/index.md",
+    "bash/bash01.md",
+    "Design/illustration.md",
+    "Design/photoshop.md",
+    "Design/AE01.md",
+    "PowerShell/Powershell.md",
+    "Stable Diffusion Webui.md",
     "python/未命名 1.md",
+    "python/music.163.com.md",
+    "Git.md",
+    "KODI.md",
+    "想法和问题.md",
+    "Vim/001.md",
     "未命名 1.md",
     "python.md",
     "python",
-    "Stable Diffusion Webui.md",
-    "KODI.md",
-    "Git.md",
-    "epic.md",
     "计算机网络.md",
     "资源.md",
     "搜索引擎语法.md",
-    "待解决抽象问题.md",
     "rime/已知配置文件有两种不同的写法.md",
     "rime",
     "ulearn token.md",
     "商务谈判.md",
     "数字营销.md",
     "Vim/vim01.md",
-    "Vim/001.md",
-    "bash/bash01.md",
-    "Design/AE01.md",
-    "Design/photoshop.md",
-    "PowerShell/Powershell.md",
-    "slider/key Word.md",
-    "slider/PPt01.md",
-    "服务营销设计/用户旅程图.md",
-    "服务营销设计/用户故事阶段.md",
     "服务营销设计",
     "last.list",
     "bash",
