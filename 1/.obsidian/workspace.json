@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python.md",
+                "file": "python/pip.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "python/pip.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "python/pip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "python/pip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "python/pip.md"
               }
             }
           },
@@ -180,8 +180,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "48b72ccbbaadee0a",
+  "active": "97fe559cfa17ceb5",
   "lastOpenFiles": [
+    "KODI.md",
+    "Git.md",
     "epic.md",
     "服务营销设计/服务设计.md",
     "powerpoint/PPt01.md",
@@ -194,12 +196,10 @@
     "Stable Diffusion Webui.md",
     "python/未命名 1.md",
     "python/music.163.com.md",
-    "Git.md",
-    "KODI.md",
     "想法和问题.md",
     "Vim/001.md",
     "未命名 1.md",
-    "python.md",
+    "python/pip.md",
     "python",
     "计算机网络.md",
     "资源.md",
