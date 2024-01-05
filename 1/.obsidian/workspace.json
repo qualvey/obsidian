@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "搜索引擎语法.md",
+                "file": "CMD/semantic.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "搜索引擎语法.md",
+                "file": "CMD/semantic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "搜索引擎语法.md",
+                "file": "CMD/semantic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "搜索引擎语法.md"
+                "file": "CMD/semantic.md"
               }
             }
           },
@@ -182,11 +182,21 @@
   },
   "active": "48b72ccbbaadee0a",
   "lastOpenFiles": [
-    "python/pip.md",
+    "资源.md",
+    "计算机网络.md",
+    "搜索引擎语法.md",
+    "归档/Stable Diffusion Webui.md",
+    "归档/商务谈判.md",
+    "归档",
+    "ulearning.md",
     "KODI.md",
     "Git.md",
     "epic.md",
-    "服务营销设计/服务设计.md",
+    "CMD/semantic.md",
+    "想法和问题.md",
+    "CMD",
+    "python/pip.md",
+    "归档/服务营销设计/服务设计.md",
     "powerpoint/PPt01.md",
     "powerpoint/index.md",
     "bash/bash01.md",
@@ -194,31 +204,20 @@
     "Design/photoshop.md",
     "Design/AE01.md",
     "PowerShell/Powershell.md",
-    "Stable Diffusion Webui.md",
     "python/未命名 1.md",
     "python/music.163.com.md",
-    "想法和问题.md",
     "Vim/001.md",
     "未命名 1.md",
     "python",
-    "计算机网络.md",
-    "资源.md",
-    "搜索引擎语法.md",
     "rime/已知配置文件有两种不同的写法.md",
     "rime",
-    "ulearn token.md",
-    "商务谈判.md",
-    "数字营销.md",
-    "Vim/vim01.md",
-    "服务营销设计",
+    "归档/服务营销设计",
     "last.list",
     "bash",
     "Vim/regular-express.txt",
     "未命名.canvas",
     "Vim",
     "PowerShell",
-    "Design",
-    "OPT",
     "Untitled.canvas"
   ]
 }
