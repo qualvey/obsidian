@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1/服务营销设计/用户旅程图.md",
+                "file": "1/bash/bash01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbd32b08a63764aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grub/config.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1/服务营销设计/用户旅程图.md",
+                "file": "Grub/config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1/服务营销设计/用户旅程图.md",
+                "file": "Grub/config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1/服务营销设计/用户旅程图.md"
+                "file": "Grub/config.md"
               }
             }
           },
@@ -154,43 +167,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b820ee0099446072",
+  "active": "bbd32b08a63764aa",
   "lastOpenFiles": [
-    "1/服务营销设计/营销概念术语.md",
-    "1/服务营销设计/服务设计.md",
-    "1/Git.md",
-    "1/python.md",
-    "1/KODI.md",
-    "1/Stable Diffusion Webui.md",
-    "1/资源.md",
-    "1/搜索引擎语法.md",
-    "1/商务谈判.md",
-    "1/计算机概念.md",
-    "1/Vim/vim01.md",
-    "1/Vim/未命名.md",
-    "1/PowerShell/Powershell.md",
     "1/bash/bash01.md",
-    "1/Design/photoshop.md",
+    "Grub/config.md",
+    "Grub",
+    "1/计算机网络.md",
+    "1/想法和问题.md",
+    "1/归档/服务营销设计/营销概念术语.md",
+    "1/归档/服务营销设计/用户旅程图.md",
+    "1/归档/服务营销设计/用户故事阶段.md",
+    "1/归档/服务营销设计/用户故事1.1.md",
+    "1/归档/服务营销设计/用户故事.md",
+    "1/归档/服务营销设计/服务设计.md",
+    "1/归档/服务营销设计",
+    "1/归档/商务谈判.md",
+    "1/归档/Stable Diffusion Webui.md",
+    "1/归档",
+    "1/ulearning.md",
+    "1/python/pip.md",
+    "1/python",
+    "1/powerpoint/index.md",
+    "1/powerpoint/PPt01.md",
+    "1/powerpoint",
+    "1/Design/illustration.md",
+    "1/CMD/semantic.md",
+    "1/CMD",
     "1/Design/AE01.md",
-    "1/slider/key Word.md",
-    "1/服务营销设计/用户故事阶段.md",
-    "1/服务营销设计/用户故事1.1.md",
-    "1/服务营销设计/用户故事.md",
+    "服务营销.md",
+    "1/未命名.md",
+    "1/ulearn token.md",
+    "1/epic.md",
+    "1/Vim/001.md",
+    "1/Design/photoshop.md",
+    "1/服务营销设计/用户旅程图.md",
     "1/服务营销设计",
     "1/Design",
-    "1/服务营销设计/用户旅程图.md",
     "服务营销",
-    "1/Vim/未命名",
-    "1/photoshop.md",
-    "1/slider/PPt01.md",
-    "1/After Effects/AE01.md",
-    "1/Vim/regular-express.txt",
-    "1/last.list",
-    "1/bash",
-    "1/Personal",
-    "1/Vim/vim.md",
-    "1.md",
-    "b.a",
-    "1/slider"
+    "1/Vim/未命名"
   ]
 }
