@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grub/config.md",
+                "file": "1/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grub/config.md",
+                "file": "1/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grub/config.md",
+                "file": "1/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grub/config.md"
+                "file": "1/未命名.md"
               }
             }
           },
@@ -169,11 +169,12 @@
   },
   "active": "bbd32b08a63764aa",
   "lastOpenFiles": [
-    "1/bash/bash01.md",
+    "1/关键词碎碎念.md",
+    "1/想法和问题.md",
     "Grub/config.md",
+    "1/bash/bash01.md",
     "Grub",
     "1/计算机网络.md",
-    "1/想法和问题.md",
     "1/归档/服务营销设计/营销概念术语.md",
     "1/归档/服务营销设计/用户旅程图.md",
     "1/归档/服务营销设计/用户故事阶段.md",
@@ -200,7 +201,6 @@
     "1/epic.md",
     "1/Vim/001.md",
     "1/Design/photoshop.md",
-    "1/服务营销设计/用户旅程图.md",
     "1/服务营销设计",
     "1/Design",
     "服务营销",
