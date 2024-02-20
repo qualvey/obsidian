@@ -6,8 +6,5 @@
 ```
 
 	 
-# Get-FileHash
--algrithom
-
 
 

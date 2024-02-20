@@ -10,12 +10,7 @@ git add .
 git commit -m "comment"  添加备注描述
 
 ```
-
-
 branch    
-
-
-
 #### 查看远程地址
 ```
 git remote -v

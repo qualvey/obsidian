@@ -13,26 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1/bash/bash01.md",
+                "file": "服务营销.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bbd32b08a63764aa",
+            "id": "e0d442afbc525733",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1/未命名.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 246.5
   },
   "right": {
     "id": "5d55e7b596284864",
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1/未命名.md",
+                "file": "服务营销.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1/未命名.md",
+                "file": "服务营销.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1/未命名.md"
+                "file": "服务营销.md"
               }
             }
           },
@@ -167,40 +162,40 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bbd32b08a63764aa",
+  "active": "89ab58d03c4c6c3a",
   "lastOpenFiles": [
-    "1/关键词碎碎念.md",
-    "1/想法和问题.md",
+    "服务营销.md",
     "Grub/config.md",
+    "1/arch/pacman.md",
     "1/bash/bash01.md",
-    "Grub",
-    "1/计算机网络.md",
-    "1/归档/服务营销设计/营销概念术语.md",
-    "1/归档/服务营销设计/用户旅程图.md",
-    "1/归档/服务营销设计/用户故事阶段.md",
-    "1/归档/服务营销设计/用户故事1.1.md",
-    "1/归档/服务营销设计/用户故事.md",
-    "1/归档/服务营销设计/服务设计.md",
-    "1/归档/服务营销设计",
-    "1/归档/商务谈判.md",
-    "1/归档/Stable Diffusion Webui.md",
-    "1/归档",
-    "1/ulearning.md",
-    "1/python/pip.md",
-    "1/python",
+    "1/vocabulary/word.md",
+    "1/CMD/semantic.md",
+    "1/CS/illustation.md",
+    "1/Design/photoshop.md",
+    "1/Design/illustration.md",
+    "1/Design/AE01.md",
     "1/powerpoint/index.md",
     "1/powerpoint/PPt01.md",
-    "1/powerpoint",
-    "1/Design/illustration.md",
-    "1/CMD/semantic.md",
-    "1/CMD",
-    "1/Design/AE01.md",
-    "服务营销.md",
-    "1/未命名.md",
-    "1/ulearn token.md",
-    "1/epic.md",
+    "1/PowerShell/碎碎.md",
+    "1/script(hash-check).md",
+    "1/PowerShell/Powershell.md",
+    "1/python/pip.md",
+    "1/Vim/vim01.md",
     "1/Vim/001.md",
-    "1/Design/photoshop.md",
+    "1/归档/服务营销设计/服务设计.md",
+    "1/归档/服务营销设计/用户故事.md",
+    "1/归档/服务营销设计/用户故事1.1.md",
+    "1/归档/服务营销设计/用户故事阶段.md",
+    "1/归档/服务营销设计/用户旅程图.md",
+    "1/归档/服务营销设计/营销概念术语.md",
+    "1/epic.md",
+    "1/Git.md",
+    "Grub",
+    "1/归档/服务营销设计",
+    "1/归档",
+    "1/python",
+    "1/powerpoint",
+    "1/CMD",
     "1/服务营销设计",
     "1/Design",
     "服务营销",
