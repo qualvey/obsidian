@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "721ebfe87c9fae2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main/vocabulary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 200
   },
   "right": {
     "id": "5d55e7b596284864",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "正则表达式.md",
+                "file": "main/vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "正则表达式.md",
+                "file": "main/vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "正则表达式.md"
+                "file": "main/vocabulary.md"
               }
             }
           },
@@ -167,43 +179,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e0d442afbc525733",
+  "active": "721ebfe87c9fae2f",
   "lastOpenFiles": [
-    "test1.c",
-    "服务营销.md",
-    "正则表达式.md",
-    "未命名",
+    "main/关键词碎碎念.md",
+    "main/vocabulary.md",
+    "main/未命名.md",
+    "main/Vim/vim01.md",
+    "main/Design/photoshop.md",
+    "main/Design/illustration.md",
+    "main/Design/AE01.md",
+    "ComputerScience/illustation.md",
+    "main/CMD/semantic.md",
+    "main/bash/bash01.md",
+    "main/arch/pacman.md",
     "Grub/config.md",
-    "1/arch/pacman.md",
-    "1/bash/bash01.md",
-    "1/vocabulary/word.md",
-    "1/CMD/semantic.md",
-    "1/CS/illustation.md",
-    "1/Design/photoshop.md",
-    "1/Design/illustration.md",
-    "1/Design/AE01.md",
+    "C/concept.md",
+    "未命名.md",
+    "C",
+    "正则表达式.md",
+    "服务营销.md",
+    "test1.c",
     "1/powerpoint/index.md",
     "1/powerpoint/PPt01.md",
-    "1/PowerShell/碎碎.md",
-    "1/script(hash-check).md",
-    "1/PowerShell/Powershell.md",
-    "1/python/pip.md",
-    "1/Vim/vim01.md",
+    "main/PowerShell/碎碎.md",
+    "main/script(hash-check).md",
+    "main/PowerShell/Powershell.md",
+    "main/python/pip.md",
     "1/Vim/001.md",
-    "1/归档/服务营销设计/服务设计.md",
-    "1/归档/服务营销设计/用户故事.md",
-    "1/归档/服务营销设计/用户故事1.1.md",
-    "1/归档/服务营销设计/用户故事阶段.md",
-    "1/归档/服务营销设计/用户旅程图.md",
-    "1/归档/服务营销设计/营销概念术语.md",
+    "main/归档/服务营销设计/服务设计.md",
+    "main/归档/服务营销设计/用户故事.md",
+    "main/归档/服务营销设计/用户故事1.1.md",
     "Grub",
-    "1/归档/服务营销设计",
-    "1/归档",
-    "1/python",
+    "main/归档/服务营销设计",
+    "main/归档",
+    "main/python",
     "1/powerpoint",
-    "1/CMD",
+    "main/CMD",
     "1/服务营销设计",
-    "1/Design",
-    "服务营销"
+    "main/Design"
   ]
 }
