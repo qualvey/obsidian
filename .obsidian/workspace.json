@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/vocabulary.md",
+                "file": "main/关键词碎碎念.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/vocabulary.md",
+                "file": "main/关键词碎碎念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/vocabulary.md",
+                "file": "main/关键词碎碎念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/vocabulary.md"
+                "file": "main/关键词碎碎念.md"
               }
             }
           },
@@ -181,8 +181,14 @@
   },
   "active": "721ebfe87c9fae2f",
   "lastOpenFiles": [
-    "main/关键词碎碎念.md",
+    "main/ulearning.md",
+    "main/script(hash-check).md",
+    "main/epic.md",
+    "main/Git.md",
     "main/vocabulary.md",
+    "main/NOW.md",
+    "main/KODI.md",
+    "main/关键词碎碎念.md",
     "main/未命名.md",
     "main/Vim/vim01.md",
     "main/Design/photoshop.md",
@@ -202,13 +208,7 @@
     "1/powerpoint/index.md",
     "1/powerpoint/PPt01.md",
     "main/PowerShell/碎碎.md",
-    "main/script(hash-check).md",
     "main/PowerShell/Powershell.md",
-    "main/python/pip.md",
-    "1/Vim/001.md",
-    "main/归档/服务营销设计/服务设计.md",
-    "main/归档/服务营销设计/用户故事.md",
-    "main/归档/服务营销设计/用户故事1.1.md",
     "Grub",
     "main/归档/服务营销设计",
     "main/归档",
