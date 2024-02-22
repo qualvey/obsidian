@@ -19,7 +19,7 @@ int main(void){
 }
 ```    
 
-**There is  an horizon line under here  
+**There is  an horizon line under here**  
 *Italic*  
 
 --- 
