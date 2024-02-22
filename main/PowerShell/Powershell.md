@@ -1,4 +1,3 @@
-## Get-Command
 
 # powershell get disks（磁盘）
 ``` 

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/关键词碎碎念.md",
+                "file": "markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/关键词碎碎念.md",
+                "file": "markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/关键词碎碎念.md",
+                "file": "markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/关键词碎碎念.md"
+                "file": "markdown.md"
               }
             }
           },
@@ -181,34 +181,34 @@
   },
   "active": "721ebfe87c9fae2f",
   "lastOpenFiles": [
+    "this.md",
+    "markdown.md",
+    "main/Graphic/photoshop.md",
+    "the.md",
+    "main/Graphic/illustration.md",
+    "main/Graphic/AE.md",
+    "main/PowerShell/Powershell.md",
+    "main/python/pip.md",
+    "main/Vim/vim01.md",
+    "main/归档/服务营销设计/营销概念术语.md",
+    "main/归档/服务营销设计/用户旅程图.md",
+    "main/归档/服务营销设计/用户故事阶段.md",
+    "main/归档/服务营销设计/用户故事1.1.md",
+    "main/归档/服务营销设计/用户故事.md",
+    "main/归档/服务营销设计/服务设计.md",
+    "main/想法和问题.md",
+    "main/搜索引擎语法.md",
+    "main/计算机网络.md",
+    "main/资源.md",
+    "main/vocabulary.md",
     "main/ulearning.md",
+    "main/关键词碎碎念.md",
     "main/script(hash-check).md",
     "main/epic.md",
     "main/Git.md",
-    "main/vocabulary.md",
     "main/NOW.md",
-    "main/KODI.md",
-    "main/关键词碎碎念.md",
-    "main/未命名.md",
-    "main/Vim/vim01.md",
-    "main/Design/photoshop.md",
-    "main/Design/illustration.md",
-    "main/Design/AE01.md",
-    "ComputerScience/illustation.md",
-    "main/CMD/semantic.md",
-    "main/bash/bash01.md",
-    "main/arch/pacman.md",
-    "Grub/config.md",
-    "C/concept.md",
-    "未命名.md",
     "C",
-    "正则表达式.md",
-    "服务营销.md",
     "test1.c",
-    "1/powerpoint/index.md",
-    "1/powerpoint/PPt01.md",
-    "main/PowerShell/碎碎.md",
-    "main/PowerShell/Powershell.md",
     "Grub",
     "main/归档/服务营销设计",
     "main/归档",
@@ -216,6 +216,6 @@
     "1/powerpoint",
     "main/CMD",
     "1/服务营销设计",
-    "main/Design"
+    "main/Graphic"
   ]
 }
