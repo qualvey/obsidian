@@ -1,2 +1,2 @@
-respective
-semantic
+respective  
+semantic  
