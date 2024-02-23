@@ -1,8 +1,12 @@
 # This is an Biggest Head  
 
 [This is an link](https://www.google.com)  
-- This  is an unordered list.  
+- This  is an unordered list.   （元符号之后要跟空格）  
 - The next line  
+---  
+1. And this is absolutely an ordered list.  (依然要有空格)  
+2. Continue.....  
+3. 
 
 ![This is an image](https://www.google.com.hk/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png)  
 `This is code but just single line.`  

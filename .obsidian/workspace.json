@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "服务营销.md",
+                "file": "main/归档/服务营销设计/服务营销.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "908a1deeac35b193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/concept.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f778057c8986606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/win中文编码问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown.md",
+                "file": "C/win中文编码问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown.md",
+                "file": "C/win中文编码问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown.md"
+                "file": "C/win中文编码问题.md"
               }
             }
           },
@@ -179,10 +203,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "721ebfe87c9fae2f",
+  "active": "5f778057c8986606",
   "lastOpenFiles": [
-    "this.md",
+    "未命名.md",
+    "C/win中文编码问题.md",
+    "C/concept.md",
+    "main/python/引用.md",
+    "计算机网络.md",
     "markdown.md",
+    "正则表达式.md",
+    "main/归档/服务营销设计/用户故事1.1.md",
+    "main/归档/服务营销设计/服务营销.md",
+    "this.md",
     "main/Graphic/photoshop.md",
     "the.md",
     "main/Graphic/illustration.md",
@@ -193,20 +225,12 @@
     "main/归档/服务营销设计/营销概念术语.md",
     "main/归档/服务营销设计/用户旅程图.md",
     "main/归档/服务营销设计/用户故事阶段.md",
-    "main/归档/服务营销设计/用户故事1.1.md",
     "main/归档/服务营销设计/用户故事.md",
     "main/归档/服务营销设计/服务设计.md",
     "main/想法和问题.md",
     "main/搜索引擎语法.md",
     "main/计算机网络.md",
     "main/资源.md",
-    "main/vocabulary.md",
-    "main/ulearning.md",
-    "main/关键词碎碎念.md",
-    "main/script(hash-check).md",
-    "main/epic.md",
-    "main/Git.md",
-    "main/NOW.md",
     "C",
     "test1.c",
     "Grub",
