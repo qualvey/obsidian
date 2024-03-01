@@ -8,67 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89ab58d03c4c6c3a",
+            "id": "b866b21207332007",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/归档/服务营销设计/服务营销.md",
+                "file": "考试.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e0d442afbc525733",
+            "id": "ca0e92da0338a9d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "正则表达式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "721ebfe87c9fae2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "markdown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "908a1deeac35b193",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/concept.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f778057c8986606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/win中文编码问题.md",
+                "file": "重点.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/win中文编码问题.md",
+                "file": "考试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/win中文编码问题.md",
+                "file": "考试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/win中文编码问题.md"
+                "file": "考试.md"
               }
             }
           },
@@ -191,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,34 +167,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5f778057c8986606",
+  "active": "b866b21207332007",
   "lastOpenFiles": [
-    "未命名.md",
-    "C/win中文编码问题.md",
-    "C/concept.md",
-    "main/python/引用.md",
-    "计算机网络.md",
+    "重点.md",
+    "js.md",
     "markdown.md",
+    "考试.md",
+    "main/Vim/vim01.md",
+    "main/PowerShell/Powershell.md",
+    "main/PowerShell/碎碎.md",
+    "main/Graphic/AE.md",
+    "ComputerScience/illustation.md",
+    "C/concept.md",
+    "C/win中文编码问题.md",
+    "Grub/config.md",
+    "计算机网络.md",
+    "信息安全.md",
     "正则表达式.md",
-    "main/归档/服务营销设计/用户故事1.1.md",
     "main/归档/服务营销设计/服务营销.md",
+    "main/CMD/semantic.md",
+    "gcc",
+    "main/python/引用.md",
+    "main/归档/服务营销设计/用户故事1.1.md",
     "this.md",
     "main/Graphic/photoshop.md",
     "the.md",
     "main/Graphic/illustration.md",
-    "main/Graphic/AE.md",
-    "main/PowerShell/Powershell.md",
     "main/python/pip.md",
-    "main/Vim/vim01.md",
     "main/归档/服务营销设计/营销概念术语.md",
     "main/归档/服务营销设计/用户旅程图.md",
-    "main/归档/服务营销设计/用户故事阶段.md",
-    "main/归档/服务营销设计/用户故事.md",
-    "main/归档/服务营销设计/服务设计.md",
-    "main/想法和问题.md",
-    "main/搜索引擎语法.md",
-    "main/计算机网络.md",
-    "main/资源.md",
     "C",
     "test1.c",
     "Grub",
@@ -239,7 +204,6 @@
     "main/python",
     "1/powerpoint",
     "main/CMD",
-    "1/服务营销设计",
-    "main/Graphic"
+    "1/服务营销设计"
   ]
 }

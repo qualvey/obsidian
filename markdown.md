@@ -28,7 +28,7 @@ int main(void){
 
 --- 
 
-| tabel | column |  |
-| ---- | ---- | ---- |
-| name |  |  |
-| age |  |  |
+| tabel | column |     |
+| ----- | ------ | --- |
+| name  |        |     |
+| age   |        |     |
