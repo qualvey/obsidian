@@ -8,30 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b866b21207332007",
+            "id": "ef82d24eddae4054",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考试.md",
+                "file": "转专业/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ca0e92da0338a9d0",
+            "id": "a8d8344267069a77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "重点.md",
+                "file": "main/python/引用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27d4997595c61e35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "51单片机/基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "966712c993ae5b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vscode用法.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考试.md",
+                "file": "51单片机/基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考试.md",
+                "file": "51单片机/基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考试.md"
+                "file": "51单片机/基础.md"
               }
             }
           },
@@ -167,12 +192,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b866b21207332007",
+  "active": "27d4997595c61e35",
   "lastOpenFiles": [
-    "重点.md",
-    "js.md",
+    "main/python/main.md",
+    "未命名 1.md",
+    "main/python/引用.md",
+    "main/python/pip.md",
+    "转专业/云计算转专业测试大纲.md",
+    "转专业/index.md",
+    "vscode用法.md",
+    "转专业/重点.md",
+    "未命名.md",
+    "转专业/难点.md",
+    "51单片机/指令系统.md",
+    "css简写.md",
+    "51单片机/基础.md",
+    "机械键盘.md",
+    "51单片机",
     "markdown.md",
-    "考试.md",
+    "转专业",
+    "js.md",
+    "信息安全.md",
+    "计算机网络.md",
     "main/Vim/vim01.md",
     "main/PowerShell/Powershell.md",
     "main/PowerShell/碎碎.md",
@@ -181,29 +222,13 @@
     "C/concept.md",
     "C/win中文编码问题.md",
     "Grub/config.md",
-    "计算机网络.md",
-    "信息安全.md",
-    "正则表达式.md",
-    "main/归档/服务营销设计/服务营销.md",
-    "main/CMD/semantic.md",
     "gcc",
-    "main/python/引用.md",
-    "main/归档/服务营销设计/用户故事1.1.md",
-    "this.md",
-    "main/Graphic/photoshop.md",
-    "the.md",
-    "main/Graphic/illustration.md",
-    "main/python/pip.md",
-    "main/归档/服务营销设计/营销概念术语.md",
-    "main/归档/服务营销设计/用户旅程图.md",
     "C",
     "test1.c",
     "Grub",
     "main/归档/服务营销设计",
     "main/归档",
     "main/python",
-    "1/powerpoint",
-    "main/CMD",
-    "1/服务营销设计"
+    "1/powerpoint"
   ]
 }
