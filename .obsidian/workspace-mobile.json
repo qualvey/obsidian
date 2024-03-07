@@ -15,36 +15,24 @@
                 "id": "b01ed1f28425db65",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1/python.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               },
               {
                 "id": "de5a73d465ad7b5a",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1/Vim/vim01.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               },
               {
                 "id": "4e10e4eee0598ac7",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1/计算机概念.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               },
               {
@@ -53,7 +41,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "服务营销.md",
+                    "file": "main/Vim/vim01.md",
                     "mode": "source",
                     "source": false
                   }
@@ -70,12 +58,8 @@
                 "id": "6311e8976cf01f0d",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "服务营销.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -147,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "服务营销.md",
+            "file": "main/Vim/vim01.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -164,7 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "服务营销.md",
+            "file": "main/Vim/vim01.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -176,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "服务营销.md"
+            "file": "main/Vim/vim01.md"
           }
         }
       },
@@ -201,8 +185,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f6dffe6569add66",
+  "active": "81da2863685a42a0",
   "lastOpenFiles": [
+    "main/python/main.md",
+    "main/python/pip.md",
+    "转专业/云计算转专业测试大纲.md",
+    "css简写.md",
+    "markdown.md",
     "1/未命名.md",
     "服务营销.md",
     "/1/未命名.md",
@@ -224,11 +213,6 @@
     "/1/Vim/未命名.md",
     "/1/Vim/vim01.md",
     "/1/KODI.md",
-    "1/Git.md",
-    "/1/python.md",
-    "/1/Git.md",
-    "用户旅程图.md",
-    "1/服务营销设计/服务设计.md",
     "/b.a",
     "1/服务营销设计",
     "1/Design",
