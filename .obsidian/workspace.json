@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "51单片机/基础.md",
+                "file": "转专业/重点.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "51单片机/基础.md",
+                "file": "转专业/重点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "51单片机/基础.md",
+                "file": "转专业/重点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "51单片机/基础.md"
+                "file": "转专业/重点.md"
               }
             }
           },
@@ -194,27 +194,27 @@
   },
   "active": "27d4997595c61e35",
   "lastOpenFiles": [
-    "main/python/main.md",
-    "未命名 1.md",
-    "main/python/引用.md",
-    "main/python/pip.md",
+    "转专业/难点.md",
+    "转专业/重点.md",
     "转专业/云计算转专业测试大纲.md",
     "转专业/index.md",
+    "酒水品牌战略对比.md",
+    "机械键盘.md",
+    "main/Vim/vim01.md",
+    "未命名 1.md",
+    "51单片机/基础.md",
+    "main/python/main.md",
+    "main/python/引用.md",
+    "main/python/pip.md",
     "vscode用法.md",
-    "转专业/重点.md",
-    "未命名.md",
-    "转专业/难点.md",
     "51单片机/指令系统.md",
     "css简写.md",
-    "51单片机/基础.md",
-    "机械键盘.md",
     "51单片机",
     "markdown.md",
     "转专业",
     "js.md",
     "信息安全.md",
     "计算机网络.md",
-    "main/Vim/vim01.md",
     "main/PowerShell/Powershell.md",
     "main/PowerShell/碎碎.md",
     "main/Graphic/AE.md",
