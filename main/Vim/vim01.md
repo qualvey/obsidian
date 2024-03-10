@@ -25,3 +25,5 @@
 星号，直接查找光标所在处的单词
 
 mark 跳转
+oprator+motion
+文本对象 i或者a。inner all判定范围不同。
