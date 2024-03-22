@@ -28,7 +28,12 @@ CSS外观属性包含：`行间距(line-height)`、`水平对齐方式(text-alig
 1. 并集选择器
 2. 交集选择器
 3. 相邻兄弟选择器
-4. 
+4.  属性选择器
+		attr=v               唯一等于
+			attr~=v       包含
+			attr|=v         包含v-开头
+			
+		    
 
 
 
@@ -51,3 +56,4 @@ CSS外观属性包含：`行间距(line-height)`、`水平对齐方式(text-alig
 | `#identifier`                             | 1   | 0   | 0   | 1-0-0 |
 | `button:not(#mainBtn, .cta)`              | 1   | 0   | 1   | 1-0-1 |
 
+样式化表单
